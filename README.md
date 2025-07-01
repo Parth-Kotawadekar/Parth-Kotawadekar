@@ -1,3 +1,4 @@
+![logo](https://github.com/Parth-Kotawadekar/Parth-Kotawadekar/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Parth Kotawadekar</h1>
 <h3 align="center">A passionate Full Stack Developer from Pune, Maharashtra, India</h3>
 
